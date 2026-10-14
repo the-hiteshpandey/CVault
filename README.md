@@ -4,7 +4,7 @@ A modern, responsive, and premium resume-building website designed to help users
 
 ## 🌐 Live Demo
 
-🔗 **Website:** [CVault – Smart Resume Builder](https://the-hiteshpandey.github.io/CVault/)
+🔗 **Website:https://the-hiteshpandey.github.io/CVault/
 
 ---
 
